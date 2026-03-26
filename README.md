@@ -21,9 +21,7 @@ While conventional MARL evaluation focuses on **reward optimization**, this work
 This study builds upon prior work on curriculum learning for water distribution systems:
 
 **Amarnath, V. (2026).**  
-*Robust Control of Water Distribution Networks under Drought Stress: A Multi-Agent Curriculum Learning Approach.*  
-Water Resources Management.  
-https://doi.org/10.1007/s11269-026-04592-5
+*Amarnath, V. (2026). Robust control of water distribution networks under drought stress: A multi-agent curriculum learning approach. Water Resources Management. In press. [Expected DOI: https://doi.org/10.1007/s11269-026-04592-5]
 
 While the prior work focuses on improving control performance under drought stress, the present study extends this line of research by introducing a **reliability-aware evaluation framework** that explicitly characterizes failure dynamics under stochastic conditions.
 
@@ -145,7 +143,7 @@ This repository is provided for academic and research purposes. The patent appli
 👩‍💻 Author
 
 Vidhyalakshmi Amarnath
-M.S. Artificial Intelligence
+Department of Artificial Intelligence
 City University of Seattle
 
 📧 amarnathvidhyalakshmi@gmail.com
