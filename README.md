@@ -16,6 +16,15 @@ While conventional MARL evaluation focuses on **reward optimization**, this work
 
 ---
 
+
+## Intellectual Property & Patent Notice
+
+Aspects of the methodology, algorithms, and system architectures implemented in this repository are the subject of a pending U.S. Provisional Patent Application (No. 63/944,327).
+
+This repository is shared strictly for academic evaluation and research reproduction. Commercial use, reproduction, or redistribution without a formal licensing agreement is prohibited.
+
+---
+
 ## 📖 Related Work
 
 This study builds upon prior work on curriculum learning for water distribution systems:
